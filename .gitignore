@@ -1,0 +1,13 @@
+ParadoxEngine/.vs
+*.pdb
+*.tlog
+*.obj
+*.recipe
+*.ilk
+*.log
+*.idb
+*.pch
+*.ipch
+*.pdb
+*.exe
+*.pdb
